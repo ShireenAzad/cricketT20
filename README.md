@@ -20,12 +20,14 @@ Functions :
       - To generate the random score of the player(DOT BALL,1,2,3,4,5,6,OUT)  based on probabilities.
       
 * Evaluate function
-      -To evaluate the game 
-        1. To check whether to change the player to strike based on the score(1 or 3 or 5) or completion of the player
-        2.Replacement of the player in the position where player is out
-        3.If all the wickets are out,checking the team lose the match or the match is tie
-        4.Checking the score of the team for each ball ,to evaluate the match won by the team or not.
-        5.If all the balls are completed,checking the match is tie or the match is loast by the team or not
+      -To evaluate the game
+      
+      
+      *　To check whether to change the player to strike based on the score(1 or 3 or 5) or completion of the player
+      *　Replacement of the player in the position where player is out
+      *　If all the wickets are out,checking the team lose the match or the match is tie
+      *　Checking the score of the team for each ball ,to evaluate the match won by the team or not.
+      *　If all the balls are completed,checking the match is tie or the match is loast by the team or not
 	
  * Scoreboard function
         - To display the score of the players of the team after the results of the match(Win or Lose or Tie)
